@@ -10,7 +10,7 @@ public:
 
     void Print() const
     {
-        cout << x << ',' << y << endl; 
+        cout << x << ',' << y << endl;  
     }
 };
 
